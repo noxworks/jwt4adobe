@@ -8,7 +8,7 @@ Usamos `composer` para baixar as dependências.
 
 Baixe aqui: https://getcomposer.org/
 
-Após baixar o código e instalar o composer. No terminal rode o comando abaixo:
+Após baixar o código e instalar o composer. Via terminal na pasta do projeto, rode o comando abaixo:
 
 ```bash
 composer install
