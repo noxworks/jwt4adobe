@@ -30,5 +30,5 @@ echo $obj->getJwtToken();
 ---
 
 Qualquer dúvida, entre em contato no e-mail:
-**fila@noxworks.com.br**
+**contato@fabiofila.com.br**
  
