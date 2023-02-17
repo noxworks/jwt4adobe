@@ -4,7 +4,7 @@
     "type": "project",
     "require": {
         "php": ">=5.6",
-        "firebase/php-jwt": "^5.0"
+        "firebase/php-jwt": "^6.0"
 	},
     "prefer-stable": true
 }
